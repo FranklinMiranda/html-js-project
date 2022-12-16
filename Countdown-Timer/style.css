@@ -8,4 +8,12 @@
 
 body {
   font-family: 'Rubik+Gemstones', sans-serif;
+  margin: 0;
+}
+
+
+.image {
+    background-image: url(./monkey.jpg);
+  margin: 0;
+  width: 1000px;
 }
