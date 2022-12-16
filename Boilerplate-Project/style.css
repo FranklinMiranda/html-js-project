@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;900&family=Rubik+Gemstones&display=swap');
 /* Importing a font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;900&display=swap');
 
 /* box-sizing: border-box includes the border and padding in the total width and height of the element */
 * {
   box-sizing: border-box;
+}
+
+body {
+  font-family: 'Rubik+Gemstones', sans-serif;
 }
